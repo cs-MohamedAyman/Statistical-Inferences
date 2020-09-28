@@ -1,3 +1,5 @@
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/statistical-inferences.jpg">
+
 # Statistical-Inferences
 Statistical inferences lectures for computer science students.
 
