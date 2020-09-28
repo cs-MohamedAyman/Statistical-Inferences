@@ -35,3 +35,7 @@ Statistical inferences lectures for computer science students.
 * ***Improving your statistical inferences*** by Eindhoven University of Technology
 * ***Bayesian Statistics: From Concept to Data Analysis*** by University of California, Santa Cruz
 * ***Bayesian Statistics: Techniques and Models*** by University of California, Santa Cruz
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## Youtube-Playlists
